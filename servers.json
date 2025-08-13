@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "name": "florofy.com",
+      "host": "https://florofy.com/",
+      "port": 443,
+      "protocol": "https",
+      "timeout": 10
+    },
+    {
+      "name": "WildRanger",
+      "host": "https://wildranger.shop/",
+      "port": 443,
+      "protocol": "https",
+      "timeout": 10
+    },
+    {
+      "name": "Router",
+      "host": "192.168.1.1",
+      "port": 80,
+      "protocol": "http",
+      "timeout": 3
+    }
+  ]
+}
